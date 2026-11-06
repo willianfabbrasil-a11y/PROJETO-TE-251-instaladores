@@ -17,6 +17,6 @@ Siga em ordem; perguntas curtas, uma por vez; português do Brasil; nunca peça 
    Depois, aceitar o convite que chega no e-mail do GitHub ou em https://github.com/notifications.
 4. **Ferramentas:** git (Mac: `xcode-select --install`; Windows: https://git-scm.com/download/win) e GitHub CLI (https://cli.github.com, depois `gh auth login`, que a própria pessoa digita).
 5. **Clonar e abrir:** `git clone https://github.com/willianfabbrasil-a11y/PROJETO-TE-251` e abrir a pasta na IA (no Claude Code: `cd PROJETO-TE-251 && claude`).
-6. A partir daqui vale o que está no repositório: `AGENTS.md` e a skill `entrar-no-projeto` (frente de trabalho, Drive, conectores, banco, app). No Claude Code ela já carrega sozinha ao abrir a pasta.
+6. A partir daqui vale o que está no repositório: `AGENTS.md`, `equipe/PASSAGEM.md` (situação atual e por onde começar) e a skill `entrar-no-projeto` (frente de trabalho, Drive, conectores, banco, app). No Claude Code ela já carrega sozinha ao abrir a pasta.
 
 O app do projeto (instaladores Mac e Windows) fica nas Releases deste repositório público.
