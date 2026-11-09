@@ -8,6 +8,7 @@ O código, o estado de cada frente e as regras ficam no repositório **privado**
 ## 1. Que IA usar
 - **Melhor:** app Claude para computador (https://claude.ai/download), aba **Code** (é o Claude Code; pode exigir plano pago, e no Windows precisa do Git instalado antes). A IA roda os comandos por você e o projeto se carrega sozinho quando ela abre a pasta dele.
 - **Também rodam comandos:** Cursor, Codex, Claude Code no terminal.
+- **Projeto do Claude na nuvem** (a pessoa criou um projeto no app Claude e colou este link; a IA roda num contêiner da nuvem): também roda comandos. A IA anexa o repositório privado pela própria ferramenta de repositórios (no Claude, `add_repo` de willianfabbrasil-a11y/PROJETO-TE-251), clona e vai direto ao passo 6. Para isso a pessoa precisa ter ligado o GitHub da conta convidada em https://claude.ai/connect-github; se o repositório não anexar, entregue esse link e pare até ela ligar. O computador da pessoa (app TE-251, Python, Tailscale) fica pendente para quando ela ligar o computador à conversa.
 - **Só conversa** (claude.ai no navegador, ChatGPT): servem para a entrada; a IA explica e você copia e cola. Para trabalhar no projeto depois, vale passar para uma das de cima.
 
 ## 2. Cole na IA (ou só o link)
